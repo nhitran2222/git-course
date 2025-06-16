@@ -1,0 +1,10 @@
+1. Giải thích các câu lệnh:
+git init: khởi tạo vùng làm việc của Git, đưa file vào vùng Working statement.
+git add <file name>: add a specific file vào vùng Staging area.
+git add .: add all files vào vùng Staging area.
+git commit -m "message": đưa file vào vùng Repository với msg "message". 
+
+2.
+Working statement: file1, file2, file3.
+Staging area: 
+Repository: file1.
