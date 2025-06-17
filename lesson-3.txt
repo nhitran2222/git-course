@@ -1,0 +1,15 @@
+1.
+git commit --amend: Sửa lại commit message gần nhất.
+git commit --amned -m"messgae": Sửa lại commit message gần nhất bằng msg có nội dung "message".
+git restore --staged <file>: gỡ file khỏi Staging, đưa về Working.
+git reset HEAD~1: Hủy commit gần nhất (file ở Repository), đưa về Staging.
+
+2. 
+Working statement: file2.
+Staging area: file3.
+Repository: file1.
+
+3. 
+Working statement: file1.txt, oops/file3.txt
+Staging area: 
+Repository: file2.txt,
