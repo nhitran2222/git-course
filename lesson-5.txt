@@ -1,0 +1,38 @@
+1. Cấu trúc DOm cơ bản của một trang web bao gồm các thẻ: 
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Tiêu đề trang</title>
+            <meat></meat>
+        </head>
+        <body>
+            <h1>Tiêu đề chính</h1>
+            <p>Đoạn văn bản</p>
+            <a href="#">Liên kết</a>
+            <div>
+                <image></image>
+                <br></br>
+            </div>
+        </body>
+    </html>
+
+
+2. Cấu trúc html của 1 bảng bao gồm:
+<table>
+    <thead>
+        <tr>
+            <th>Tiêu đề cột 1</th>
+            <th>Tiêu đề cột 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>dữ liệu 1</td>
+            <td>dữ liệu 2</td>
+        </tr>
+        <tr>
+            <td>dữ liệu 1</td>
+            <td>dữ liệu 2</td>
+        </tr>
+    </tbody>
+</table>
